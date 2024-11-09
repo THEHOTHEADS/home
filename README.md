@@ -1,38 +1,103 @@
-<div align="center">
-  <img height="200px" width="200px" src="https://github.com/user-attachments/assets/8b333bdb-b67b-4db7-b8c7-b4cb449653c7" />
-</div> 
-
-<p align="center">
-  <img align="left" height="200px" width="200px" src="https://github.com/user-attachments/assets/03a520b2-5649-4a21-917c-5604d1bde566" />
-  <img align="right" height="200px" width="200px" src="https://github.com/user-attachments/assets/03a520b2-5649-4a21-917c-5604d1bde566" />
-</p>
-
-<br clear="both"/>
-
-<pre align="center">
-          _______ _________          _______  _______  ______   _______ 
-|\     /|(  ___  )\__   __/|\     /|(  ____ \(  ___  )(  __  \ (  ____ \
-| )   ( || (   ) |   ) (   | )   ( || (    \/| (   ) || (  \  )| (    \/
-| (___) || |   | |   | |   | (___) || (__    | (___) || |   ) || (_____ 
-|  ___  || |   | |   | |   |  ___  ||  __)   |  ___  || |   | |(_____  )
-| (   ) || |   | |   | |   | (   ) || (      | (   ) || |   ) |      ) |
-| )   ( || (___) |   | |   | )   ( || (____/\| )   ( || (__/  )/\____) |
-|/     \|(_______)   )_(   |/     \|(_______/|/     \|(______/ \_______)
-</pre>
-
-<div align="center">
+<pre align="left">
   
-*`5 HOT HEADS`*: [*`Coffinxp`*](https://github.com/coffinxp) x [*`AnonKryptiQuz`*](https://github.com/AnonKryptiQuz) x [*`Naho`*](https://github.com/Naho666) x [*`HexShad0w`*](https://github.com/HexShad0w) x [*`1hehaq`*](https://github.com/1hehaq)
+┌──(root㉿hotheads)-[/home/security]
+└─$ ./hotheads.sh
 
-  
-| `projects` |
-|------------------|
-| <img src="https://raw.githubusercontent.com/mandatoryprogrammer/mandatoryprogrammer/main/arrow.svg" width="20px" height="20px" /> <a href="https://github.com/coffinxp/loxs">`loxs`</a><br/><center><i>Your go-to tool for finding sqli, xss, lfi, open redirects, and crlf!
-</i></center> |
-| <img src="https://raw.githubusercontent.com/mandatoryprogrammer/mandatoryprogrammer/main/arrow.svg" width="20px" height="20px" /> <a href="#">`loxs.ext`</a><br/><center><i>Chrome extension for bug bounty hunters</i></center> |
-| <img src="https://raw.githubusercontent.com/mandatoryprogrammer/mandatoryprogrammer/main/arrow.svg" width="20px" height="20px" /> <a href="#">`Finadmin`</a><br/><center><i>Best admin finder tool</i></center> |
-| <img src="https://raw.githubusercontent.com/mandatoryprogrammer/mandatoryprogrammer/main/arrow.svg" width="20px" height="20px" /> <a href="#">`4not3`</a><br/><center><i>Best 403 bypass tool</i></center> |
+<span style="color: #ff0000;">  
+    ╦ ╦ ╔═╗ ╔╦╗ ╦ ╦ ╔═╗ ╔═╗ ╔╦═╗ ╔═╗
+    ╠═╣ ║ ║  ║  ╠═╣ ║╣  ╠═╣  ║ ║ ╚═╗
+    ╩ ╩ ╚═╝  ╩  ╩ ╩ ╚═╝ ╩ ╩═ ╩═╝ ╚═╝
+</span>
 
+┌──(root㉿hotheads)-[/home/security]
+└─$ cat /etc/team/roster.conf
 
-**Community:** [*`LostSec`*](https://t.me/lostsec)
+    # HOTHEADS Security Team Configuration
+    # Access Level: ADMINS
+    
+    [CORE_TEAM]
+    ┌────────────────────────────────────────┐
+    │ OPERATOR: COFFINXP                     │
+    │ ├─[ID] : <a href="https://github.com/coffinxp">github/coffinxp</a>               │
+    │ ├─[ROLE]: Lead Hacker                  │
+    │ └─[ACCESS]: ADMIN                      │
+    └────────────────────────────────────────┘
+    
+    ┌────────────────────────────────────────┐
+    │ OPERATOR: ANONKRYPTIQUZ                │
+    │ ├─[ID] : <a href="https://github.com/AnonKryptiQuz">github/AnonKryptiQuz</a>          │
+    │ ├─[ROLE]: Exploit Developer            │
+    │ └─[ACCESS]: ADMIN                      │
+    └────────────────────────────────────────┘
+    
+    ┌────────────────────────────────────────┐
+    │ OPERATOR: NAHO                         │
+    │ ├─[ID] : <a href="https://github.com/Naho666">github/Naho666</a>                │
+    │ ├─[ROLE]: Master Brain                 │
+    │ └─[ACCESS]: ADMIN                      │
+    └────────────────────────────────────────┘
+    
+    ┌────────────────────────────────────────┐
+    │ OPERATOR: HEXSHAD0W                    │
+    │ ├─[ID] : <a href="https://github.com/HexShad0w">github/HexShad0w</a>              │
+    │ ├─[ROLE]: Malware Developer            │
+    │ └─[ACCESS]: ADMIN                      │
+    └────────────────────────────────────────┘
+    
+    ┌────────────────────────────────────────┐
+    │ OPERATOR: 1HEHAQ                       │
+    │ ├─[ID] : <a href="https://github.com/1hehaq">github/1hehaq</a>                 │
+    │ ├─[ROLE]: Still Not Identified         │
+    │ └─[ACCESS]: ADMIN                      │
+    └────────────────────────────────────────┘
+
+┌──(root㉿hotheads)-[/home/security]
+└─$ ls -la /var/projects/active/
+
+    [CLASSIFIED_PROJECTS]
+    ═══════════════════════════════════════════════════════
+    
+    PROJECT: LOXS
+    ├──[STATUS]: ACTIVE
+    ├──[TYPE]: Vulnerability Scanner
+    ├──[PATH]: <a href="https://github.com/coffinxp/loxs">/projects/loxs</a>
+    └──[DESC]: Advanced vulnerability detection system
+        └─> SQL Injection
+        └─> Cross-Site Scripting
+        └─> Local File Inclusion
+        └─> Open Redirects
+        └─> CRLF Injection
+    
+    PROJECT: LOXS.EXT
+    ├──[STATUS]: IN_DEVELOPMENT
+    ├──[TYPE]: Browser Extension
+    ├──[PATH]: /projects/loxs.ext
+    └──[DESC]: Chrome extension for bug bounty hunters
+    
+    PROJECT: FINADMIN
+    ├──[STATUS]: ACTIVE
+    ├──[TYPE]: Reconnaissance Tool
+    ├──[PATH]: /projects/finadmin
+    └──[DESC]: Advanced admin panel detection system
+    
+    PROJECT: 4NOT3
+    ├──[STATUS]: IN_DEVELOPMENT
+    ├──[TYPE]: Bypass Tool
+    ├──[PATH]: /projects/4not3
+    └──[DESC]: 403 Access Denied bypass toolkit
+
+┌──(root㉿hotheads)-[/home/security]
+└─$ cat /etc/community/access.log
+
+    [COMMUNITY_ACCESS]
+    ├──[PLATFORM]: Telegram
+    ├──[CHANNEL]: <a href="https://t.me/lostsec">LostSec</a>
+    ├──[STATUS]: HELPING_ALL_HUNTERS
+    └──[CLEARANCE]: PUBLIC_ACCESS
+
+┌──(root㉿hotheads)-[/home/security]
+└─$ exit
+
+    Logging out from secure shell...
 </div>
+</pre>
